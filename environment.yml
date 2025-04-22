@@ -11,7 +11,7 @@ dependencies:
   - matplotlib
   - pip
   - pyprojroot
-  - kagglehub
+  - conda-forge::kagglehub
   - fs
   - jupyter
   - jupyterlab
@@ -20,5 +20,7 @@ dependencies:
   - scipy
   - scikit-learn
   - python=3.12
+  - upsetplot
+  - missingno==0.5.2
   - pip:
     - pyhere
