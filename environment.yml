@@ -23,5 +23,6 @@ dependencies:
   - upsetplot
   - missingno==0.5.2
   - unzip
+  - plotly
   - pip:
     - pyhere
